@@ -1,0 +1,23 @@
+.getStarted-bg {
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  margin-top: 30vh;
+}
+
+.heading {
+  font-size: 32px;
+  font-family: roboto;
+}
+
+.get-started-btn {
+  height: 38px;
+  width: 100px;
+  border-radius: 8px;
+  background-color: transparent;
+  color: black;
+  background-color: aqua;
+}
